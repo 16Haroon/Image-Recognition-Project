@@ -7,8 +7,11 @@ Put yourself in the shoes of a data scientist being given a data set and asked t
 We are deliberately not giving you detailed directions on how to solve these problems, but feel free to come to office hours to brainstorm.
 
 ## Objectives
+There are three possible paths through this project:
 
-Use dataset (path) #3, which are images of digits. See below for the analysis questions we want you to answer.
+1. You may use dataset (path) #1, which captures information about student behavior and performance in an online course. See below for the analysis questions we want you to answer.
+2. You may use dataset (path) #2, which captures information about bike usage in New York City. See below for the analysis questions we want you to answer.
+3. You may use dataset (path) #3, which are images of digits. See below for the analysis questions we want you to answer.
 
    
 ## Path 3: Data Security in Model Training
